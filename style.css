@@ -41,7 +41,7 @@ header a{
 #header a:hover{
   text-decoration: underline;
 }
-div.questions #btn a{
+div.questions a.btn{
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
@@ -50,7 +50,7 @@ div.questions #btn a{
   padding: 18px;
   font-size: 20px;
 }
-div.questions #btn a:hover {
+div.questions a.btn:hover {
   background-color: #0069d9;
   border-color: #0069d9;
 }
