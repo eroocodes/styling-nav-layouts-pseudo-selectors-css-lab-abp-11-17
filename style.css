@@ -34,14 +34,13 @@ nav a:hover {
   text-decoration: underline;
   color: #0056b3;
 }
-#Icebreaker-id a: hover {
+#Icebreaker a: hover {
   text-decoration: underline;
 }
 #header a{
   text-decoration: none;
   color: #868e96;
 }
-
 main{
   margin-top: 20px;
 }
