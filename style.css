@@ -41,7 +41,7 @@ header a{
 #Icebreakers a:hover{
   text-decoration: underline;
 }
-div.questions #btn a{
+#btn div.questions a{
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
@@ -49,7 +49,7 @@ div.questions #btn a{
   padding: 18px;
   font-size: 20px;
 }
-div.questions #btn a:hover {
+#btn div.questions a:hover {
   background-color: #0069d9;
   border-color: #0069d9;
 }
